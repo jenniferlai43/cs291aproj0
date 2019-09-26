@@ -13,6 +13,11 @@
   	width: 100%;
 }
 
+.place-table > img {
+	height: 50px;
+	width: auto;
+}
+
 td, th {
 	border: 1px solid var(--border-color);
   	text-align: left;
